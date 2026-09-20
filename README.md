@@ -1,15 +1,23 @@
-# Movie Trailers Website
+# 🎬 Movie Trailer Web App
 
-Welcome to the Movie Trailers Website! This project allows users to upload and share their favorite movie trailers. Users can view trailers uploaded by others and manage their own uploads through a personalized dashboard.
+A full-stack MERN web application developed in a six-member team during the QueenB Summer Camp.
 
-## Features
+The platform allows users to upload, search, filter, and view movie trailers, manage their own uploads, and interact with trailer content through a personalized user experience.
+
+## 👩‍💻 My Contributions
+
+- Developed functionality for validating new trailer submissions against existing database records to prevent duplicate entries.
+- Worked with the MERN stack as part of the project's full-stack development environment.
+- Independently learned and applied unfamiliar web development technologies within a limited project timeframe.
+
+## ✨ Features
 
 - **Upload Trailers**: Users can upload their favorite movie trailers.
 - **View Trailers**: Browse through trailers uploaded by other users.
 - **User Dashboard**: Each user has a dashboard where they can view, edit, or delete their uploaded trailers.
 - **Authentication**: Users can sign up, log in, and manage their accounts, including a "Forgot Password" feature.
-- **Home Page**: A user-friendly homepage displays all available trailers.
-- **YouTube API Integration**: Trailers are presented through the YouTube API, ensuring a seamless viewing experience.
+- **Search and Filtering**: Users can search and filter available trailers.
+- **YouTube API Integration**: Trailers are presented through the YouTube API.
 
 ## Technology Stack
 
